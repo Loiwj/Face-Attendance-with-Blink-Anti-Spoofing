@@ -1,0 +1,8 @@
+opencv-python==4.8.1.78
+mediapipe==0.10.7
+numpy==1.24.3
+onnxruntime==1.15.1
+scikit-image==0.25.2
+streamlit==1.29.0
+# For face recognition without insightface
+face-recognition==1.3.0
